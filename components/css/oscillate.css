@@ -1,0 +1,27 @@
+html, body {
+    min-height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.osc-text-light
+{
+    color: rgba(238, 238, 255, 1);
+}
+.osc-text-dark
+{
+    color: rgba(7, 7, 7, 1);
+}
+.osc-text-indigo
+{
+    color: rgba(141, 0, 255, 1);
+}
+.osc-text-primary
+{
+    color: rgba(38, 196, 133, 1);
+}
+.osc-text-secondary
+{
+    color: rgba(87, 100, 144, 1);
+}
+
